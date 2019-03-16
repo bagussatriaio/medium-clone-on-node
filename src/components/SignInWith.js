@@ -35,7 +35,7 @@ class SignInWith extends Component {
 
                 <li className="omniauth-button google">
                     <GoogleLogin className="button google"
-                    clientId=""
+                    clientId="859843625612-kr2k4livk0hv6696sp3u56pqno5tr4gc.apps.googleusercontent.com"
                     onSuccess={responseGoogle}
                     onFailure={responseGoogle} >
                         <i className="fa fa-google"></i><span> SignIn with Google</span>
