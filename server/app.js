@@ -13,9 +13,9 @@ const url = process.env.MONGODB_URI || "mongodb://localhost:27017/medium"
 
 /** configure cloudinary */
 cloudinary.config({
-    cloud_name: 'chidumennamdi',
-    api_key: '',
-    api_secret: ''
+    cloud_name: 'stories-agas',
+    api_key: '837366236327566',
+    api_secret: 'YCrwPlcFZsYKAIWkluA5G6wYHkU'
 })
 
 /** connect to MongoDB datastore */
