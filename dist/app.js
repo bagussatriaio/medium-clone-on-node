@@ -15,9 +15,9 @@ const url ="mongodb://alc:alc@ds237855.mlab.com:37855/alc"
 
 /** configure cloudinary */
 cloudinary.config({
-    cloud_name: 'chidumennamdi',
-    api_key: '392481138676646',
-    api_secret: '6vN978wHnfEr21pKrysWuu7_0UI'
+    cloud_name: 'stories-agas',
+    api_key: '837366236327566',
+    api_secret: 'YCrwPlcFZsYKAIWkluA5G6wYHkU'
 })
 
 /** connect to MongoDB datastore */
